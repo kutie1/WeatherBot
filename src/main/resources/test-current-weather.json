@@ -1,0 +1,53 @@
+{
+  "count": 1,
+  "data": [
+    {
+      "app_temp": 24,
+      "aqi": 56,
+      "city_name": "Sofiyivska Borschagivka",
+      "clouds": 91,
+      "country_code": "UA",
+      "datetime": "2022-02-26:15",
+      "dewpt": 11.6,
+      "dhi": 117.92,
+      "dni": 900.77,
+      "elev_angle": 60.62,
+      "ghi": 894.99,
+      "gust": 3.6,
+      "h_angle": 75,
+      "lat": 50.4631,
+      "lon": 30.4054,
+      "ob_time": "2024-06-25 11:16",
+      "pod": "d",
+      "precip": 0,
+      "pres": 995.5,
+      "rh": 45,
+      "slp": 1016,
+      "snow": 0,
+      "solar_rad": 375.4,
+      "sources": [
+        "analysis",
+        "radar",
+        "satellite"
+      ],
+      "state_code": "13",
+      "station": "UKKK",
+      "sunrise": "04:46",
+      "sunset": "15:34",
+      "temp": 24.3,
+      "timezone": "Europe/Kiev",
+      "ts": 1719314164,
+      "uv": 3.1972678,
+      "vis": 16,
+      "weather": {
+        "description": "Light rain",
+        "code": 500,
+        "icon": "r01d"
+      },
+      "wind_cdir": "N",
+      "wind_cdir_full": "north",
+      "wind_dir": 1,
+      "wind_spd": 3.6
+    }
+  ]
+}
